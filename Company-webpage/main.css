@@ -7,7 +7,7 @@ body{
       position: relative; 
   
 
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("icons/10.jpg");
+    /*background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("icons/10.jpg");*/
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
